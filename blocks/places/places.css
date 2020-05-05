@@ -1,0 +1,10 @@
+.places {
+    margin: 0 auto;
+    max-width: 1184px;
+    min-height: 200px;
+    padding-top: 12px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    border: 1px solid blue;
+}
