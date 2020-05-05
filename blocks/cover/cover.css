@@ -3,7 +3,6 @@
 @import url("./__subtitle/cover__subtitle.css");
 
 .cover {
-    max-width: 1184px;
-    display: block;
-    position: relative;
+  padding-top: 92px;
+  padding-bottom: 92px;
 }
