@@ -1,4 +1,7 @@
 .header__lang-link {
     color: white;
     margin-right: 0px;
+    display: inline;
+    text-decoration: none;
 }
+

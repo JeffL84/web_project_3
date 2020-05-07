@@ -1,5 +1,7 @@
 # Project 3: From Portland to Portland
 
+The website can be found at: https://jeffl84.github.io/web_project_3/
+
 ### Great website
 * Media queries
 * Grid layouts

@@ -1,5 +1,3 @@
-@import url("./_heading/place__website_heading.css");
-@import url("./_link/place__website_link.css");
 
 .place__website {
     grid-area: website;
