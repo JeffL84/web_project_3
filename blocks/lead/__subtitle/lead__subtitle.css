@@ -1,8 +1,8 @@
 .lead__subtitle {
-    font-family: Inter;
     font-style: normal;
     font-weight: normal;
     margin-top: 32px;
+    margin-bottom: 64px;
     max-width: 620px;
     font-size: 1.66rem; 
     line-height: 36px;

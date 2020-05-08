@@ -4,6 +4,7 @@
 @import url("./__title/lead__title.css");
 
 .lead {
+    font-family: 'Inter', Arial, sans-serif;
     position: relative;
     display: flex;
     margin: auto;

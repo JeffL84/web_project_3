@@ -5,10 +5,8 @@
 @import url("./__list/_type_normal/intro__list_type_normal.css");
 
 .intro {
-display: flex;
-flex-direction: column;
-align-items: flex-start;
-max-width: 690px;
+font-family: 'Inter', Arial, sans-serif;
+max-width: 984px;
 margin-left: 100px;
 margin-top: 92px;
 height: auto;
