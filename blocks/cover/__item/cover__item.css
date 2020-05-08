@@ -10,6 +10,7 @@
     flex-direction: column;
     background-image: url("../../../images/cover-route-66.jpg");
     color: #ffffff;
+    background-size: cover;
     z-index: 1;
 }
 

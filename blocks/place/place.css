@@ -68,6 +68,30 @@
     }
 }
 
+@media screen and (max-width: 525px) {
+    .place {
+        grid-template-columns: 320px;
+    grid-template-rows: auto auto auto;
+    grid-template-areas:
+    "title"
+    "image"
+    "paragraphs";
+        grid-gap: 48px 28px;
+    }
+
+    .place:nth-of-type(2) {
+        grid-template-columns: 320px;
+    grid-template-rows: auto auto auto;
+    grid-template-areas:
+    "title"
+    "image"
+    "paragraphs";
+        grid-gap: 48px 28px;
+    }
+}
+
+
+
 @media screen and (max-width: 320px) {
 .place {
     grid-template-columns: 320px;

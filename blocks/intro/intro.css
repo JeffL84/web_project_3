@@ -7,14 +7,13 @@
 .intro {
 font-family: 'Inter', Arial, sans-serif;
 max-width: 984px;
-margin-left: 100px;
+margin: 0 auto;
 margin-top: 92px;
 height: auto;
 }
 
 @media screen and (max-width: 1024px) {
 .intro {
-    padding-left: 48px;
     margin-top: 92px;
     margin-bottom: 92px;
 
