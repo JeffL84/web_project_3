@@ -1,5 +1,5 @@
 .lead__image {
-    max-height: 615px;
+    height: 615px;
     width: 100%;
 }
 
@@ -7,9 +7,7 @@
 
     .lead__image {
       max-width: 928px;
-      max-height: 580px;
-      padding-left: 48px;
-      padding-right: 48px;
+      height: 580px;
     }
   }
   
@@ -17,9 +15,7 @@
   
       .lead__image {
         max-width: 768px;
-        max-height: 480px;
-        padding-left: 0px;
-        padding-right: 0px;
+        height: 480px;
         }
   }
   
@@ -27,8 +23,6 @@
   
       .lead__image {
         max-width: 320px;
-        max-height: 200px;
-        padding-left: 0px;
-        padding-right: 0px;
+       height: 200px;
        }
   }

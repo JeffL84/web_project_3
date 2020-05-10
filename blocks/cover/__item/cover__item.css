@@ -1,7 +1,8 @@
 .cover__item {
     max-width: 1184px;
     min-height: 740px;
-    margin: auto;
+    width: 100%;
+    margin: 0 auto;
     align-items: center;
     position: relative;
     display: flex;
@@ -35,12 +36,16 @@
 
 .cover__item {
   min-height: 640px;
+  width: 100%;
+    margin: 0 auto;
 }
 }
 
 @media screen and (max-width: 768px) {
   .cover__item {
     min-height: 480px;
+    width: 100%;
+    margin: 0 auto;
   }
 
 }
@@ -48,6 +53,8 @@
 @media screen and (max-width: 320px) {
   .cover__item {
     min-height: 200px;
+    width: 100%;
+    margin: 0 auto;
   }
 
 }

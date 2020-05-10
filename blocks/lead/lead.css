@@ -12,4 +12,29 @@
     align-items: center;
     max-width: 984px;
     width: 100%;
+    box-sizing: border-box;
 }
+
+@media screen and (max-width: 1024px) {
+
+    .lead {
+      padding-left: 48px;
+      padding-right: 48px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+  
+      .lead {
+        padding-left: 0px;
+        padding-right: 0px;
+        }
+  }
+  
+  @media screen and (max-width: 320px) {
+  
+      .lead {
+        padding-left: 0px;
+        padding-right: 0px;
+       }
+  }
