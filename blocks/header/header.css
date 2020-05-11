@@ -16,25 +16,23 @@
 
 @media screen and (max-width: 1024px) {
     .header {
-      width: calc(100%-96px);
-      max-width: 928px;
+      width: 100%;
+      max-width: 1024px;
+      padding: 34px 48px 0;
     
     }
 }
 
 @media screen and (max-width: 768px) {
     .header {
-      width: calc(100%-48px);
-      max-width: 720px;
+      padding: 34px 24px 0;
      
     }
 }
 
 @media screen and (max-width: 320px) {
     .header {
-      width: calc(100%-32px);
-      max-width: 288px;
-      padding-top: 20px;
+      padding: 20px 16px 0;
     }
 
 }
